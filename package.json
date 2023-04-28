@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "codesys-client": "^0.1.1"
+  }
+}
